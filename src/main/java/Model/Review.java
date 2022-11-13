@@ -8,7 +8,5 @@ import lombok.Setter;
 @Getter
 @NoArgsConstructor
 public class Review {
-    String pluses;
-    String minuses;
-    String reviewText;
+    String text;
 }
